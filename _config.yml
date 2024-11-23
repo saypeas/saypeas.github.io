@@ -114,8 +114,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Victoria Yan"
+  avatar           : "/assets/victoria_yan.jpeg"
   bio              : "I am a senior at Stanford University studying a B.A. in Economics, M.S. in Statistics, and Minor in Political Science."
   location         : "Stanford, CA"
   email            :
