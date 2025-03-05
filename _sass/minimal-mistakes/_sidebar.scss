@@ -23,8 +23,8 @@
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
-    &:hover {
-      opacity: 1;
+    //&:hover {
+      //opacity: 1;
     }
 
     &.sticky {
@@ -124,8 +124,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 48px;
+  height: 48px;
 
   @include breakpoint($large) {
     display: block;
