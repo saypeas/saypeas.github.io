@@ -103,7 +103,7 @@ author:
   name             : "Victoria Yan"
   avatar           : "/assets/victoria_yan.jpeg"
   bio              : "I'm a senior at Stanford University studying economics, statistics, and political science."
-  location         : "Stanford, CA"
+  location         : 
   email            :
   links:
     - label: "Email"
