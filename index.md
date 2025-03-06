@@ -1,7 +1,8 @@
 ---
 layout: single
 author_profile: true
---->
+---
+
 <span style="font-size:0.8em;">
 I'm Victoria, a senior studying economics, statistics, and political science at Stanford University. I worked on economics research at the Brookings Institution, Innovations for Poverty Action, and the Stanford Institute for Economic Policy Research.<br>
 
