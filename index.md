@@ -8,6 +8,7 @@ I'm Victoria, a senior studying economics, statistics, and political science at 
 ## Public Writing
 <span style="font-size:0.9em;">
 [Assessing the state of household finances in nine charts](https://www.brookings.edu/articles/assessing-the-state-of-household-finances-in-nine-charts/){:target="_blank"}, Wendy Edelberg, Victoria Yan, Jimmy Zheng, _Brookings Institution_, September 2024.<br>
+  
 [The Hidden Costs of Digital Finance: What Mobile Money Providers Aren't Telling You](https://poverty-action.org/hidden-costs-digital-finance-what-mobile-money-providers-arent-telling-you){:target="_blank"}, Ria Zapanta, Julia Chen Heigel, Victoria Yan, _Innovations for Poverty Action_, April 2025.
 
 
