@@ -12,7 +12,7 @@ I enjoy reading creative non-fiction essays. My current favorites are [Goodbye t
 
 <span style="font-size:1.5em; font-weight:bold;">Public Writing</span>
 <span style="font-size:0.8em;">
-- "[Assessing the state of household finances in nine charts](https://www.brookings.edu/articles/assessing-the-state-of-household-finances-in-nine-charts/," Wendy Edelberg, Victoria Yan, Jimmy Zheng. _Brookings Institution_. (2024)
+- "[Assessing the state of household finances in nine charts](https://www.brookings.edu/articles/assessing-the-state-of-household-finances-in-nine-charts/)" Wendy Edelberg, Victoria Yan, Jimmy Zheng. _Brookings Institution_. (2024)
 - "[The Hidden Costs of Digital Finance: What Mobile Money Providers Aren't Telling You](https://poverty-action.org/hidden-costs-digital-finance-what-mobile-money-providers-arent-telling-you)" Ria Zapanta, Julia Chen Heigel, Victoria Yan. _Innovations for Poverty Action_. (2025)
 </span>
 
