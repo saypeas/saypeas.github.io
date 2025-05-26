@@ -12,8 +12,8 @@ I enjoy reading creative non-fiction essays. My current favorites are [Goodbye t
 
 <span style="font-size:1.5em; font-weight:bold;">Public Writing</span>
 <span style="font-size:0.8em;">
-- [Assessing the state of household finances in nine charts](https://www.brookings.edu/articles/assessing-the-state-of-household-finances-in-nine-charts/), (with Wendey Edelberg and Jimmy Zheng), _Brookings Institution_, September 2024.
-- [The Hidden Costs of Digital Finance: What Mobile Money Providers Aren't Telling You](https://poverty-action.org/hidden-costs-digital-finance-what-mobile-money-providers-arent-telling-you), _Innovations for Poverty Action_, (with Ria Zapanta and Julia Chen Heigel), April 2025. 
+- "[Assessing the state of household finances in nine charts](https://www.brookings.edu/articles/assessing-the-state-of-household-finances-in-nine-charts/)," _Brookings Institution_, September 2024, (with Wendey Edelberg and Jimmy Zheng).
+- "[The Hidden Costs of Digital Finance: What Mobile Money Providers Aren't Telling You](https://poverty-action.org/hidden-costs-digital-finance-what-mobile-money-providers-arent-telling-you)", _Innovations for Poverty Action_, April 2025, (with Ria Zapanta and Julia Chen Heigel).
 </span>
 
 {:target="_blank"}
