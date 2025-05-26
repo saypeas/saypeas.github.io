@@ -10,5 +10,11 @@ I'm Victoria, a senior studying economics, statistics, and political science at 
 I enjoy reading creative non-fiction essays. My current favorites are [Goodbye to All That](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/09/22211308/joan-didion-goodbye-to-all-that-1.pdf){:target="_blank"}, [Notes of a Native Son](https://www2.csudh.edu/ccauthen/570f15/baldwin.pdf){:target="_blank"}, and [The Courage of Turtles](https://dayonecomptwo.wordpress.com/wp-content/uploads/2011/02/hoagland-the-courage-of-turtles.pdf){:target="_blank"}. Reach me at vi[lastname]@stanford.edu to chat about these essays, economics research, or U.S. politics.
 </span>
 
+<span style="font-size:1.5em; font-weight:bold;">Public Writing</span>
+<span style="font-size:0.8em;">
+- [Assessing the state of household finances in nine charts](https://www.brookings.edu/articles/assessing-the-state-of-household-finances-in-nine-charts/), (with Wendey Edelberg and Jimmy Zheng), _Brookings Institution_, September 2024.
+- [The Hidden Costs of Digital Finance: What Mobile Money Providers Aren't Telling You](https://poverty-action.org/hidden-costs-digital-finance-what-mobile-money-providers-arent-telling-you), _Innovations for Poverty Action_, (with Ria Zapanta and Julia Chen Heigel), April 2025. 
+</span>
+
 {:target="_blank"}
 
