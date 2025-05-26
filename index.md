@@ -7,9 +7,7 @@ I'm Victoria, a senior studying economics, statistics, and political science at 
 I enjoy reading creative non-fiction essays. My current favorites are [Goodbye to All That](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/09/22211308/joan-didion-goodbye-to-all-that-1.pdf){:target="_blank"}, [Notes of a Native Son](https://www2.csudh.edu/ccauthen/570f15/baldwin.pdf){:target="_blank"}, and [The Courage of Turtles](https://dayonecomptwo.wordpress.com/wp-content/uploads/2011/02/hoagland-the-courage-of-turtles.pdf){:target="_blank"}. 
 
 ## Public Writing
-- "[Assessing the state of household finances in nine charts](https://www.brookings.edu/articles/assessing-the-state-of-household-finances-in-nine-charts/){:target="_blank"}"
- Wendy Edelberg, Victoria Yan, Jimmy Zheng. _Brookings Institution_. (2024)
-- "[The Hidden Costs of Digital Finance: What Mobile Money Providers Aren't Telling You](https://poverty-action.org/hidden-costs-digital-finance-what-mobile-money-providers-arent-telling-you){:target="_blank"}"
- Ria Zapanta, Julia Chen Heigel, Victoria Yan. _Innovations for Poverty Action_. (2025)
+- [Assessing the state of household finances in nine charts](https://www.brookings.edu/articles/assessing-the-state-of-household-finances-in-nine-charts/){:target="_blank"}. Wendy Edelberg, Victoria Yan, Jimmy Zheng. _Brookings Institution_. (2024)
+- [The Hidden Costs of Digital Finance: What Mobile Money Providers Aren't Telling You](https://poverty-action.org/hidden-costs-digital-finance-what-mobile-money-providers-arent-telling-you){:target="_blank"}. Ria Zapanta, Julia Chen Heigel, Victoria Yan. _Innovations for Poverty Action_. (2025)
 
 
