@@ -22,7 +22,22 @@ layout: archive
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
       {% for post in year.items %}
-        {% include archive-single.html type=entries_layout %}
+        <article class="post-card">
+          <h3 class="post-card__title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+
+          {% if post.date %}
+            <p class="page__meta">
+              <i class="far fa-calendar-alt"></i>
+              Written <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            </p>
+          {% endif %}
+
+          <div class="post-card__excerpt">
+            {{ post.excerpt }}
+          </div>
+        </article>
       {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
