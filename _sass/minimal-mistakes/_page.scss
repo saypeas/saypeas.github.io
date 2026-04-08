@@ -69,23 +69,6 @@ body {
   }
 }
 
-/* Wider single posts */
-body.single .page {
-  width: 100% !important;      // override calc(100% - $sidebar)
-  padding-inline-end: 2rem !important;  // remove fake sidebar space
-  max-width: none;             // optional, ignore max-width on .page itself
-}
-
-body.single .page__inner-wrap {
-  max-width: 900px;       // actual width of content
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 2rem;     // breathing room
-  padding-right: 2rem;
-}
-
-
 .page__title {
   margin-top: 0;
   line-height: 1;
