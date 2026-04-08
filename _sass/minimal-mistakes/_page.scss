@@ -36,12 +36,7 @@ body {
 .page {
   @include breakpoint($large) {
     float: inline-end;
-     width: 100%;
-	 max-width: 900px; /* optional to avoid extremely wide content on large screens */
-	 margin-left: auto;
-	 margin-right: auto;
-	 padding-left: 2rem;  /* optional for some breathing room */
-	 padding-right: 2rem;
+    width: calc(100% - #{$right-sidebar-width-narrow});
     padding-inline-end: $right-sidebar-width-narrow;
   }
 
