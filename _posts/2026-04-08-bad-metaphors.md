@@ -10,6 +10,6 @@ People share bad metaphors because they assume what is relatable to them is rela
 
 A more effective phrase would’ve been one that is universally understood–“You think you were born yesterday?” But this phrase is less relatable to Harris personally, whose mother’s phrase was about falling out of a coconut tree and not about being born yesterday. Still the coconut tree line went viral–which says more about how unclear phrases can make you famous than what makes a good, clarifying metaphor.
 
-[^1]: The [entire speech](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/10/remarks-by-vice-president-harris-at-swearing-in-ceremony-of-commissioners-for-the-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-hispanics/) containing the coconut tree metaphor is unclear, which makes sense because the coconut tree line exists in the context of all that came before it.
+[^1]: The [entire speech](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/10/remarks-by-vice-president-harris-at-swearing-in-ceremony-of-commissioners-for-the-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-hispanics/){:target="_blank"} containing the coconut tree metaphor is unclear, which makes sense because the coconut tree line exists in the context of all that came before it.
 
 
